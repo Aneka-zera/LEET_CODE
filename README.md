@@ -15,3 +15,5 @@
 | 6 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [Code](Strings/longest_substring.py) | 2024-05-15 | Sliding Window |
 | 7 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [Code](Arrays/container_with_water.py) | 2024-05-17 | Two Pointers |
 | 8 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [Code](Arrays/move_zeroes.py) | 2024-05-17 | In-place Operation |
+| 9 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [Code](Strings/group_anagrams.py) | 2024-05-20 | Hash Map + Sorting |
+| 10 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium | [Code](Strings/find_all_anagrams.py) | 2024-05-20 | Sliding Window + Hash Map |
