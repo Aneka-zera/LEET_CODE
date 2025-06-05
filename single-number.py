@@ -14,3 +14,10 @@ class Solution(object):
         for i in nums:
             if d[i]==1:
                 return i
+
+
+def singleNumber(nums):  
+    result = 0  
+    for num in nums:  
+        result ^= num  # XOR cancels out duplicates  
+    return result  
